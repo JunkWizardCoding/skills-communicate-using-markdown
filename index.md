@@ -4,11 +4,11 @@
 
 ```python
 while Katze:
-  Serotoninspiegel += 1
+  Joy += 1
 ```
 
 - [x] Become a Novice code Wizard 🧙‍♂️✨<br />
-- [ ] Participate in an open source project 🪄<br />
+- [x] Participate in an open source project 🪄<br />
 - [ ] Become an Advanced code Wizard 🧙‍♂️🌠<br />
 - [ ] Craft True Magic 🪐<br />
 - [ ] Become Archmage of Sourcery 🧙‍♂️🌌<br />
